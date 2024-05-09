@@ -1,0 +1,5 @@
+Result for base 2 and exponent 3: 8
+Result for base 4 and exponent 2: 16
+Result for base 5 and exponent 0: 1
+Error: Non-integer value found in the input.
+Error: Non-integer value found in the input.
